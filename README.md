@@ -3,3 +3,4 @@ Projeto de bloco de notas com HTML CSS JS onde é possível realizar as operaç�
 
 ![image](https://github.com/VitorFraifer/NotesApp/assets/158490707/3a03c576-52ee-4892-93e4-5939d88df3c2)
 
+https://vitorfraifer.github.io/NotesApp/
